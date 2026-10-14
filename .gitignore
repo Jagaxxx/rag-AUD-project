@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Data folders (raw data, intermediate chunks, processed indexes)
+data/raw/
+data/interim/
+data/processed/
+
+# Saved models, FAISS indexes, and checkpoints
+models/
+*.index
+*.bin
+*.safetensors
+
+# Python / Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# MLflow tracking
+mlruns/

@@ -1,0 +1,1 @@
+# Manages the vector database (FAISS) for similarity search and interfaces with the LLM reader to generate answers based on retrieved contexts.

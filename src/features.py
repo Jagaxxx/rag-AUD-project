@@ -1,0 +1,1 @@
+# Handles text segmentation (chunking) and converts text chunks into vector embeddings using pre-trained sentence-transformer models.
