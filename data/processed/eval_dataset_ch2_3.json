@@ -1,0 +1,634 @@
+{
+  "chapters": [
+    {
+      "chapter": 2,
+      "title": "The Constitution and Its Origins",
+      "key_terms": [
+        {
+          "term": "Anti-Federalists",
+          "definition": "those who did not support ratification of the Constitution"
+        },
+        {
+          "term": "Articles of Confederation",
+          "definition": "the first basis for the new nation's government; adopted in 1781; created an alliance of sovereign states held together by a weak central government"
+        },
+        {
+          "term": "bicameral legislature",
+          "definition": "a legislature with two houses, such as the U.S. Congress"
+        },
+        {
+          "term": "Bill of Rights",
+          "definition": "the first ten amendments to the U.S. Constitution; most were designed to protect fundamental rights and liberties"
+        },
+        {
+          "term": "checks and balances",
+          "definition": "a system that allows one branch of government to limit the exercise of power by another branch; requires the different parts of government to work together"
+        },
+        {
+          "term": "confederation",
+          "definition": "a highly decentralized form of government; sovereign states form a union for purposes such as mutual defense"
+        },
+        {
+          "term": "Declaration of Independence",
+          "definition": "a document written in 1776 in which the American colonists proclaimed their independence from Great Britain and listed their grievances against the British king"
+        },
+        {
+          "term": "enumerated powers",
+          "definition": "the powers given explicitly to the federal government by the Constitution (Article I, Section 8); power to regulate interstate and foreign commerce, raise and support armies, declare war, coin money, and conduct foreign affairs"
+        },
+        {
+          "term": "federal system",
+          "definition": "a form of government in which power is divided between state governments and a national government"
+        },
+        {
+          "term": "Federalists",
+          "definition": "those who supported ratification of the Constitution"
+        },
+        {
+          "term": "Great Compromise",
+          "definition": "a compromise between the Virginia Plan and the New Jersey Plan that created a two-house Congress; representation based on population in the House of Representatives and equal representation of states in the Senate"
+        },
+        {
+          "term": "natural rights",
+          "definition": "the right to life, liberty, and property; believed to be given by God; no government may take away"
+        },
+        {
+          "term": "New Jersey Plan",
+          "definition": "a plan that called for a one-house national legislature; each state would receive one vote"
+        },
+        {
+          "term": "republic",
+          "definition": "a form of government in which political power rests in the hands of the people, not a monarch, and is exercised by elected representatives"
+        },
+        {
+          "term": "reserved powers",
+          "definition": "any powers not prohibited by the Constitution or delegated to the national government; powers reserved to the states and denied to the federal government"
+        },
+        {
+          "term": "separation of powers",
+          "definition": "the sharing of powers among three separate branches of government"
+        },
+        {
+          "term": "social contract",
+          "definition": "an agreement between people and government in which citizens consent to be governed so long as the government protects their natural rights"
+        },
+        {
+          "term": "supremacy clause",
+          "definition": "the statement in Article VI of the Constitution that federal law is superior to laws passed by state legislatures"
+        },
+        {
+          "term": "The Federalist Papers",
+          "definition": "a collection of eighty-five essays written by Alexander Hamilton, James Madison, and John Jay in support of ratification of the Constitution"
+        },
+        {
+          "term": "Three-Fifths Compromise",
+          "definition": "a compromise between northern and southern states that called for counting of all a state's free population and 60 percent of its enslaved population for both federal taxation and representation in Congress"
+        },
+        {
+          "term": "unicameral legislature",
+          "definition": "a legislature with only one house, like the Confederation Congress or the legislature proposed by the New Jersey Plan"
+        },
+        {
+          "term": "veto",
+          "definition": "the power of the president to reject a law proposed by Congress"
+        },
+        {
+          "term": "Virginia Plan",
+          "definition": "a plan for a two-house legislature; representatives would be elected to the lower house based on each state's population; representatives for the upper house would be chosen by the lower house"
+        }
+      ],
+      "summaries": [
+        {
+          "section": "2.1 The Pre-Revolutionary Period and the Roots of the American Political Tradition",
+          "text": "For many years the British colonists in North America had peacefully accepted rule by the king and Parliament. They were proud to be Englishmen. Much of their pride, however, stemmed from their belief that they were heirs to a tradition of limited government and royal acknowledgement of the rights of their subjects. Colonists' pride in their English liberties gave way to dismay when they perceived that these liberties were being abused. People had come to regard life, liberty, and property not as gifts from the monarch but as natural rights no government could take away. A chain of incidents-the Proclamation of 1763, the trial of smugglers in courts without juries, the imposition of taxes without the colonists' consent, and the attempted interference with self-government in the colonies-convinced many colonists that the social contract between the British government and its citizens had been broken. In 1776, the Second Continental Congress declared American independence from Great Britain."
+        },
+        {
+          "section": "2.2 The Articles of Confederation",
+          "text": "Fearful of creating a system so powerful that it might abuse its citizens, the men who drafted the Articles of Confederation deliberately sought to limit the powers of the national government. The states maintained the right to govern their residents, while the national government could declare war, coin money, and conduct foreign affairs but little else. Its inability to impose taxes, regulate commerce, or raise an army hindered its ability to defend the nation or pay its debts. A solution had to be found."
+        },
+        {
+          "section": "2.3 The Development of the Constitution",
+          "text": "Realizing that flaws in the Articles of Confederation could harm the new country and recognizing that the Articles could not easily be revised as originally intended, delegates from the states who met in Philadelphia from May through September 1787 set about drafting a new governing document. The United States that emerged from the Constitutional Convention in September was not a confederation, but it was a republic whose national government had been strengthened greatly. Congress had been transformed into a bicameral legislature with additional powers, and a national judicial system had been created. Most importantly, a federal system had been established with the power to govern the new country. To satisfy the concerns of those who feared an overly strong central government, the framers of the Constitution created a system with separation of powers and checks and balances. Although such measures satisfied many, concerns still lingered that the federal government remained too powerful."
+        },
+        {
+          "section": "2.4 The Ratification of the Constitution",
+          "text": "Anti-Federalists objected to the power the Constitution gave the federal government and the absence of a bill of rights to protect individual liberties. The Federalists countered that a strong government was necessary to lead the new nation and promised to add a bill of rights to the Constitution. The Federalist Papers, in particular, argued in favor of ratification and sought to convince people that the new government would not become tyrannical. Finally, in June 1788, New Hampshire became the ninth state to approve the Constitution, making it the law of the land. The large and prosperous states of Virginia and New York followed shortly thereafter, and the remaining states joined as well."
+        },
+        {
+          "section": "2.5 Constitutional Change",
+          "text": "One of the problems with the Articles of Confederation was the difficulty of changing it. To prevent this difficulty from recurring, the framers provided a method for amending the Constitution that required a two-thirds majority in both houses of Congress and in three-quarters of state legislatures to approve a change. The possibility of amending the Constitution helped ensure its ratification, although many feared the powerful federal government it created would deprive them of their rights. To allay their anxieties, the framers promised that a Bill of Rights safeguarding individual liberties would be added following ratification. These ten amendments were formally added to the document in 1791 and other amendments followed over the years. Among the most important were those ending slavery, granting citizenship to African Americans, and giving the right to vote to Americans regardless of race, color, or sex."
+        }
+      ],
+      "review_questions": [
+        {
+          "id": "ch2_q1",
+          "type": "multiple_choice",
+          "question": "British colonists in North America in the late seventeenth century were greatly influenced by the political thought of",
+          "options": [
+            "A. King James II",
+            "B. Thomas Jefferson",
+            "C. John Locke",
+            "D. James Madison"
+          ],
+          "ground_truth": "C. John Locke"
+        },
+        {
+          "id": "ch2_q2",
+          "type": "multiple_choice",
+          "question": "The agreement that citizens will consent to be governed so long as government protects their natural rights is called",
+          "options": [
+            "A. the divine right of kings",
+            "B. the social contract",
+            "C. a bill of rights",
+            "D. due process"
+          ],
+          "ground_truth": "B. the social contract"
+        },
+        {
+          "id": "ch2_q3",
+          "type": "open_ended",
+          "question": "What key tenets of American political thought were influential in the decision to declare independence from Britain?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch2_q4",
+          "type": "open_ended",
+          "question": "What actions by the British government convinced the colonists that they needed to declare their independence?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch2_q5",
+          "type": "multiple_choice",
+          "question": "What important power did the national government lack under the Articles of Confederation?",
+          "options": [
+            "A. It could not coin money.",
+            "B. It could not declare war.",
+            "C. It could not impose taxes.",
+            "D. It could not conduct foreign affairs."
+          ],
+          "ground_truth": "C. It could not impose taxes."
+        },
+        {
+          "id": "ch2_q6",
+          "type": "open_ended",
+          "question": "In what ways did Shays' Rebellion reveal the weaknesses of the Articles of Confederation?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch2_q7",
+          "type": "multiple_choice",
+          "question": "According to the Great Compromise, how would representation in Congress be apportioned?",
+          "options": [
+            "A. Each state would have equal representation in both the House of Representatives and the Senate.",
+            "B. Congress would be a unicameral legislature with each state receiving equal representation.",
+            "C. Representation in the House of Representatives would be based on each state's population and every state would have two senators.",
+            "D. Representation in both the House of Representatives and the Senate would be based on a state's population."
+          ],
+          "ground_truth": "C. Representation in the House of Representatives would be based on each state's population and every state would have two senators."
+        },
+        {
+          "id": "ch2_q8",
+          "type": "multiple_choice",
+          "question": "How did the delegates to the Constitutional Convention resolve their disagreement regarding slavery?",
+          "options": [
+            "A. It was agreed that Congress would abolish slavery in 1850.",
+            "B. It was agreed that a state's enslaved population would be counted for purposes of representation but not for purposes of taxation.",
+            "C. It was agreed that a state's enslaved population would be counted for purposes of taxation but not for purposes of representation.",
+            "D. It was agreed that 60 percent of a state's enslaved population would be counted for purposes of both representation and taxation."
+          ],
+          "ground_truth": "D. It was agreed that 60 percent of a state's enslaved population would be counted for purposes of both representation and taxation."
+        },
+        {
+          "id": "ch2_q9",
+          "type": "open_ended",
+          "question": "What does separation of powers mean?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch2_q10",
+          "type": "multiple_choice",
+          "question": "Why were The Federalist Papers written?",
+          "options": [
+            "A. To encourage states to oppose the Constitution.",
+            "B. To encourage New York to ratify the Constitution.",
+            "C. To oppose the admission of slaveholding states to the federal union.",
+            "D. To encourage people to vote for George Washington as the nation's first president."
+          ],
+          "ground_truth": "B. To encourage New York to ratify the Constitution."
+        },
+        {
+          "id": "ch2_q11",
+          "type": "multiple_choice",
+          "question": "What argument did Alexander Hamilton use to convince people that it was not dangerous to place power in the hands of one man?",
+          "options": [
+            "A. That man would have to pass a religious test before he could become president; thus, citizens could be sure that he was of good character.",
+            "B. One man could respond to crises more quickly than a group of men like Congress.",
+            "C. It was easier to control the actions of one man than the actions of a group.",
+            "D. both B and C"
+          ],
+          "ground_truth": "D. both B and C"
+        },
+        {
+          "id": "ch2_q12",
+          "type": "open_ended",
+          "question": "Why did so many people oppose ratification of the Constitution, and how was their opposition partly overcome?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch2_q13",
+          "type": "multiple_choice",
+          "question": "How many states must ratify an amendment before it becomes law?",
+          "options": [
+            "A. all",
+            "B. three-fourths",
+            "C. two-thirds",
+            "D. one-half"
+          ],
+          "ground_truth": "B. three-fourths"
+        },
+        {
+          "id": "ch2_q14",
+          "type": "multiple_choice",
+          "question": "What is the Bill of Rights?",
+          "options": [
+            "A. first ten amendments to the Constitution that protect individual freedoms",
+            "B. powers given to Congress in Article I of the Constitution",
+            "C. twenty-seven amendments added to the Constitution over the years",
+            "D. document authored by Thomas Jefferson that details the rights of the citizens"
+          ],
+          "ground_truth": "A. first ten amendments to the Constitution that protect individual freedoms"
+        },
+        {
+          "id": "ch2_q15",
+          "type": "open_ended",
+          "question": "What did the Fourteenth Amendment achieve?",
+          "options": [],
+          "ground_truth": ""
+        }
+      ],
+      "critical_thinking_questions": [
+        {
+          "id": "ch2_ct16",
+          "question": "What core values and beliefs led to the American Revolution and the writing of the Articles of Confederation? How do these values and beliefs affect American politics today?"
+        },
+        {
+          "id": "ch2_ct17",
+          "question": "Was Britain truly depriving colonists of their natural rights? Explain your reasoning."
+        },
+        {
+          "id": "ch2_ct18",
+          "question": "Do the Constitution and the Bill of Rights protect the life, liberty, and property of all Americans? Why or why not?"
+        },
+        {
+          "id": "ch2_ct19",
+          "question": "Was the Bill of Rights a necessary addition to the Constitution? Defend your answer."
+        },
+        {
+          "id": "ch2_ct20",
+          "question": "One of the chief areas of compromise at the Constitutional Convention was the issue of slavery. Should delegates who opposed slavery have been willing to compromise? Why or why not?"
+        },
+        {
+          "id": "ch2_ct21",
+          "question": "Is the federal government too powerful? Should states have more power? If so, what specific power(s) should states have?"
+        },
+        {
+          "id": "ch2_ct22",
+          "question": "What new amendments should be added to the Constitution? Why?"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "American Federalism",
+      "key_terms": [
+        {
+          "term": "bill of attainder",
+          "definition": "a legislative action declaring someone guilty without a trial; prohibited under the Constitution"
+        },
+        {
+          "term": "block grant",
+          "definition": "a type of grant that comes with less stringent federal administrative conditions and provide recipients more latitude over how to spend grant funds"
+        },
+        {
+          "term": "categorical grant",
+          "definition": "a federal transfer formulated to limit recipients' discretion in the use of funds and subject them to strict administrative criteria"
+        },
+        {
+          "term": "concurrent powers",
+          "definition": "shared state and federal powers that range from taxing, borrowing, and making and enforcing laws to establishing court systems"
+        },
+        {
+          "term": "cooperative federalism",
+          "definition": "a style of federalism in which both levels of government coordinate their actions to solve national problems, leading to the blending of layers as in a marble cake"
+        },
+        {
+          "term": "creeping categorization",
+          "definition": "a process in which the national government attaches new administrative requirements to block grants or supplants them with new categorical grants"
+        },
+        {
+          "term": "devolution",
+          "definition": "a process in which powers from the central government in a unitary system are delegated to subnational units"
+        },
+        {
+          "term": "dual federalism",
+          "definition": "a style of federalism in which the states and national government exercise exclusive authority in distinctly delineated spheres of jurisdiction, creating a layer-cake view of federalism"
+        },
+        {
+          "term": "elastic clause",
+          "definition": "the last clause of Article I, Section 8, which enables the national government \"to make all Laws which shall be necessary and proper for carrying\" out all its constitutional responsibilities"
+        },
+        {
+          "term": "ex post facto law",
+          "definition": "a law that criminalizes an act retroactively; prohibited under the Constitution"
+        },
+        {
+          "term": "federalism",
+          "definition": "an institutional arrangement that creates two relatively autonomous levels of government, each possessing the capacity to act directly on the people with authority granted by the national constitution"
+        },
+        {
+          "term": "full faith and credit clause",
+          "definition": "found in Article IV, Section 1, of the Constitution, this clause requires states to accept court decisions, public acts, and contracts of other states"
+        },
+        {
+          "term": "general revenue sharing",
+          "definition": "a type of federal grant that places minimal restrictions on how state and local governments spend the money"
+        },
+        {
+          "term": "immigration federalism",
+          "definition": "the gradual movement of states into the immigration policy domain traditionally handled by the federal government"
+        },
+        {
+          "term": "new federalism",
+          "definition": "a style of federalism premised on the idea that the decentralization of policies enhances administrative efficiency, reduces overall public spending, and improves outcomes"
+        },
+        {
+          "term": "nullification",
+          "definition": "a doctrine promoted by John Calhoun of South Carolina in the 1830s, asserting that if a state deems a federal law unconstitutional, it can nullify it within its borders"
+        },
+        {
+          "term": "privileges and immunities clause",
+          "definition": "found in Article IV, Section 2, of the Constitution, this clause prohibits states from discriminating against out-of-staters by denying such guarantees as access to courts, legal protection, and property and travel rights; also referred to as the comity provision"
+        },
+        {
+          "term": "race-to-the-bottom",
+          "definition": "a dynamic in which states compete to attract business by lowering taxes and regulations, often to workers' detriment"
+        },
+        {
+          "term": "unfunded mandates",
+          "definition": "federal laws and regulations that impose obligations on state and local governments without fully compensating them for the costs of implementation"
+        },
+        {
+          "term": "unitary system",
+          "definition": "a centralized system of government in which the subnational government is dependent on the central government, where substantial authority is concentrated"
+        },
+        {
+          "term": "venue shopping",
+          "definition": "a strategy in which interest groups select the level and branch of government they calculate will be most receptive to their policy goals"
+        },
+        {
+          "term": "writ of habeas corpus",
+          "definition": "a petition that enables someone in custody to petition a judge to determine whether that person's detention is legal"
+        }
+      ],
+      "summaries": [
+        {
+          "section": "3.1 The Division of Powers",
+          "text": "Federalism is a system of government that creates two relatively autonomous levels of government, each possessing authority granted to them by the national constitution. Federal systems like the one in the United States are different from unitary systems, which concentrate authority in the national government, and from confederations, which concentrate authority in subnational governments. The U.S. Constitution allocates powers to the states and federal government, structures the relationship between these two levels of government, and guides state-to-state relationships. Federal, state, and local governments rely on different sources of revenue to enable them to fulfill their public responsibilities."
+        },
+        {
+          "section": "3.2 The Evolution of American Federalism",
+          "text": "Federalism in the United States has gone through several phases of evolution during which the relationship between the federal and state governments has varied. In the era of dual federalism, both levels of government stayed within their own jurisdictional spheres. During the era of cooperative federalism, the federal government became active in policy areas previously handled by the states. The 1970s ushered in an era of new federalism and attempts to decentralize policy management."
+        },
+        {
+          "section": "3.3 Intergovernmental Relationships",
+          "text": "To accomplish its policy priorities, the federal government often needs to elicit the cooperation of states and local governments, using various strategies. Block and categorical grants provide money to lower government levels to subsidize the cost of implementing policy programs fashioned in part by the federal government. This strategy gives state and local authorities some degree of flexibility and discretion as they coordinate with the federal government. On the other hand, mandate compels state and local governments to abide by federal laws and regulations or face penalties."
+        },
+        {
+          "section": "3.4 Competitive Federalism Today",
+          "text": "Some policy areas have been redefined as a result of changes in the roles that states and the federal government play in them. The constitutional disputes these changes often trigger have had to be sorted out by the Supreme Court. Contemporary federalism has also witnessed interest groups engaging in venue shopping. Aware of the multiple access points to our political system, such groups seek to access the level of government they deem will be most receptive to their policy views."
+        },
+        {
+          "section": "3.5 Advantages and Disadvantages of Federalism",
+          "text": "The benefits of federalism are that it can encourage political participation, give states an incentive to engage in policy innovation, and accommodate diverse viewpoints across the country. The disadvantages are that it can set off a race to the bottom among states, cause cross-state economic and social disparities, and obstruct federal efforts to address national problems."
+        }
+      ],
+      "review_questions": [
+        {
+          "id": "ch3_q1",
+          "type": "multiple_choice",
+          "question": "Which statement about federal and unitary systems is most accurate?",
+          "options": [
+            "a. In a federal system, power is concentrated in the states; in a unitary system, it is concentrated in the national government.",
+            "b. In a federal system, the constitution allocates powers between states and federal government; in a unitary system, powers are lodged in the national government.",
+            "c. Today there are more countries with federal systems than with unitary systems.",
+            "d. The United States and Japan have federal systems, while Great Britain and Canada have unitary systems."
+          ],
+          "ground_truth": "b. In a federal system, the constitution allocates powers between states and federal government; in a unitary system, powers are lodged in the national government."
+        },
+        {
+          "id": "ch3_q2",
+          "type": "multiple_choice",
+          "question": "Which statement is most accurate about the sources of revenue for local and state governments?",
+          "options": [
+            "a. Taxes generate well over one-half the total revenue of local and state governments.",
+            "b. Property taxes generate the most tax revenue for both local and state governments.",
+            "c. Between 30 and 40 percent of the revenue for local and state governments comes from grant money.",
+            "d. Local and state governments generate an equal amount of revenue from issuing licenses and certificates."
+          ],
+          "ground_truth": "a. Taxes generate well over one-half the total revenue of local and state governments."
+        },
+        {
+          "id": "ch3_q3",
+          "type": "open_ended",
+          "question": "What key constitutional provisions define the scope of authority of the federal and state governments?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q4",
+          "type": "open_ended",
+          "question": "What are the main functions of federal and state governments?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q5",
+          "type": "multiple_choice",
+          "question": "In McCulloch v. Maryland, the Supreme Court invoked which provisions of the constitution?",
+          "options": [
+            "a. Tenth Amendment and spending clause",
+            "b. commerce clause and supremacy clause",
+            "c. necessary and proper clause and supremacy clause",
+            "d. taxing power and necessary and proper clause"
+          ],
+          "ground_truth": "c. necessary and proper clause and supremacy clause"
+        },
+        {
+          "id": "ch3_q6",
+          "type": "multiple_choice",
+          "question": "Which statement about new federalism is not true?",
+          "options": [
+            "a. New federalism was launched by President Nixon and continued by President Reagan.",
+            "b. New federalism is based on the idea that decentralization of responsibility enhances administrative efficiency.",
+            "c. United States v. Lopez is a Supreme Court ruling that advanced the logic of new federalism.",
+            "d. President Reagan was able to promote new federalism consistently throughout his administration."
+          ],
+          "ground_truth": "d. President Reagan was able to promote new federalism consistently throughout his administration."
+        },
+        {
+          "id": "ch3_q7",
+          "type": "multiple_choice",
+          "question": "Which is not a merit of cooperative federalism?",
+          "options": [
+            "a. Federal cooperation helps mitigate the problem of collective action among states.",
+            "b. Federal assistance encourages state and local governments to generate positive externalities.",
+            "c. Cooperative federalism respects the traditional jurisdictional boundaries between states and federal government.",
+            "d. Federal assistance ensures some degree of uniformity of public services across states."
+          ],
+          "ground_truth": "c. Cooperative federalism respects the traditional jurisdictional boundaries between states and federal government."
+        },
+        {
+          "id": "ch3_q8",
+          "type": "open_ended",
+          "question": "What are the main differences between cooperative federalism and dual federalism?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q9",
+          "type": "open_ended",
+          "question": "What were the implications of McCulloch v. Maryland for federalism?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q10",
+          "type": "multiple_choice",
+          "question": "Which statement about federal grants in recent decades is most accurate?",
+          "options": [
+            "a. The federal government allocates the most grant money to income security.",
+            "b. The amount of federal grant money going to states has steadily increased since the 1960s.",
+            "c. The majority of federal grants are block grants.",
+            "d. Block grants tend to gain more flexibility over time."
+          ],
+          "ground_truth": "b. The amount of federal grant money going to states has steadily increased since the 1960s."
+        },
+        {
+          "id": "ch3_q11",
+          "type": "multiple_choice",
+          "question": "Which statement about unfunded mandates is false?",
+          "options": [
+            "a. The Unfunded Mandates Reform Act has prevented Congress from using unfunded mandates.",
+            "b. The Clean Air Act is a type of federal partial preemptive regulation.",
+            "c. Title VI of the Civil Rights Act establishes crosscutting requirements.",
+            "d. New federalism promotes the use of unfunded mandates."
+          ],
+          "ground_truth": "a. The Unfunded Mandates Reform Act has prevented Congress from using unfunded mandates."
+        },
+        {
+          "id": "ch3_q12",
+          "type": "open_ended",
+          "question": "What does it mean to refer to the carrot of grants and the stick of mandates?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q13",
+          "type": "multiple_choice",
+          "question": "Which statement about immigration federalism is false?",
+          "options": [
+            "a. The Arizona v. United States decision struck down all Arizona's most restrictive provisions on undocumented immigration.",
+            "b. Since the 1990s, states have increasingly moved into the policy domain of immigration.",
+            "c. Federal immigration laws trump state laws.",
+            "d. States' involvement in immigration is partly due to their interest in preventing undocumented immigrants from accessing public services such as education and welfare benefits."
+          ],
+          "ground_truth": "a. The Arizona v. United States decision struck down all Arizona's most restrictive provisions on undocumented immigration."
+        },
+        {
+          "id": "ch3_q14",
+          "type": "multiple_choice",
+          "question": "Which statement about the evolution of same-sex marriage is false?",
+          "options": [
+            "a. The federal government became involved in this issue when it passed DOMA.",
+            "b. In the 1990s and 2000s, the number of state restrictions on same-sex marriage increased.",
+            "c. United States v. Windsor legalized same-sex marriage in the United States.",
+            "d. More than half the states had legalized same-sex marriage by the time the Supreme Court made same-sex marriage legal nationwide in 2015."
+          ],
+          "ground_truth": "c. United States v. Windsor legalized same-sex marriage in the United States."
+        },
+        {
+          "id": "ch3_q15",
+          "type": "multiple_choice",
+          "question": "Which statement about venue shopping is true?",
+          "options": [
+            "a. MADD steered the drinking age issue from the federal government down to the states.",
+            "b. Anti-abortion advocates have steered the abortion issue from the states up to the federal government.",
+            "c. Both MADD and anti-abortion proponents redirected their advocacy from the states to the federal government.",
+            "d. None of the statements are correct."
+          ],
+          "ground_truth": "b. Anti-abortion advocates have steered the abortion issue from the states up to the federal government."
+        },
+        {
+          "id": "ch3_q16",
+          "type": "open_ended",
+          "question": "What does venue shopping mean?",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q17",
+          "type": "multiple_choice",
+          "question": "Which of the following is not a benefit of federalism?",
+          "options": [
+            "a. Federalism promotes political participation.",
+            "b. Federalism encourages economic equality across the country.",
+            "c. Federalism provides for multiple levels of government action.",
+            "d. Federalism accommodates a diversity of opinion."
+          ],
+          "ground_truth": "b. Federalism encourages economic equality across the country."
+        },
+        {
+          "id": "ch3_q18",
+          "type": "open_ended",
+          "question": "Describe the advantages of federalism.",
+          "options": [],
+          "ground_truth": ""
+        },
+        {
+          "id": "ch3_q19",
+          "type": "open_ended",
+          "question": "Describe the disadvantages of federalism.",
+          "options": [],
+          "ground_truth": ""
+        }
+      ],
+      "critical_thinking_questions": [
+        {
+          "id": "ch3_ct20",
+          "question": "Describe the primary differences in the role of citizens in government among the federal, confederation, and unitary systems."
+        },
+        {
+          "id": "ch3_ct21",
+          "question": "How have the political and economic relationships between the states and federal government evolved since the early 1800s?"
+        },
+        {
+          "id": "ch3_ct22",
+          "question": "Discuss how the federal government shapes the actions of state and local governments."
+        },
+        {
+          "id": "ch3_ct23",
+          "question": "What are the merits and drawbacks of American federalism?"
+        },
+        {
+          "id": "ch3_ct24",
+          "question": "What do you see as the upcoming challenges to federalism in the next decade? Choose an issue and outline how the states and the federal government could respond."
+        }
+      ]
+    }
+  ]
+}
