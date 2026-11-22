@@ -1,0 +1,30 @@
+# Project configuration
+# Each team member has their own section
+
+paths:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+
+# === Person 1: preprocessing (src/data.py) ===
+data:
+  variant: v1
+  variants:
+    v1:
+      pdf_file: ch2_3.pdf          
+    v2:
+      pdf_file: ch2_3_key_terms.pdf
+
+  # running headers and footers - measured in notebooks/01_data_exploration.ipynb
+  top_margin: 36
+  bottom_margin: 36
+
+  noise_labels:
+    - LINK TO LEARNING
+    - MILESTONE
+    - LEARNING OBJECTIVES
+    - CHAPTER OUTLINE
+    - GET CONNECTED
+
+# === Person 2: chunking, embeddings, FAISS (features.py / models.py) ===
+# ....
