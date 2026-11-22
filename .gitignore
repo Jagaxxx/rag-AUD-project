@@ -4,7 +4,8 @@
 # Data folders (raw data, intermediate chunks, processed indexes)
 data/raw/
 data/interim/
-data/processed/
+data/processed/*
+!data/processed/eval_dataset_ch2_3.json
 
 # Saved models, FAISS indexes, and checkpoints
 models/

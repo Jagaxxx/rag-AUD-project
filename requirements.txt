@@ -27,3 +27,7 @@ shap>=0.44
 # Experiment tracking
 mlflow>=2.9
 wandb>=0.16         # alternative to MLflow
+
+PyMuPDF>=1.24.0
+
+rank_bm25>=0.2.2
