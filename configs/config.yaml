@@ -5,6 +5,7 @@ paths:
   raw_dir: data/raw
   interim_dir: data/interim
   processed_dir: data/processed
+  models_dir: models
 
 # === Person 1: preprocessing (src/data.py) ===
 data:
@@ -26,5 +27,19 @@ data:
     - CHAPTER OUTLINE
     - GET CONNECTED
 
-# === Person 2: chunking, embeddings, FAISS (features.py / models.py) ===
-# ....
+# === Person 2: chunking, embeddings, FAISS ===
+
+chunking:
+  chunk_size: 250
+  chunk_overlap: 40
+
+embeddings:
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  batch_size: 32
+  normalize_embeddings: true
+
+vector_search:
+  index_type: IndexFlatIP
+  top_k: 5
+
+# === Person 3:
