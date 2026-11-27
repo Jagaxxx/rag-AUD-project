@@ -6,6 +6,9 @@ import numpy as np
 from rank_bm25 import BM25Okapi
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import faiss
+import json
+from pathlib import Path
 
 # class BM25Retriever:
 #     """
@@ -85,3 +88,82 @@ class TFIDFRetriever:
         similarities = cosine_similarity(self.vectorizer.transform([query]), self.corpus_matrix).flatten()
         top_indices = np.argsort(similarities)[::-1][:top_k]
         return [{**self.corpus[i], "score": float(similarities[i])} for i in top_indices]
+
+#=====================================================================================================================
+#=====================================================================================================================
+#=====================================================================================================================
+
+
+def build_faiss_index(embeddings, config):
+    dimension = embeddings.shape[1]
+
+    if config["index_type"] == "IndexFlatIP":
+        index = faiss.IndexFlatIP(dimension)
+    else:
+        raise ValueError(
+            f"Unsupported index type: {config['index_type']}"
+        )
+
+    index.add(
+        np.asarray(embeddings, dtype="float32")
+    )
+
+    return index
+
+
+def save_faiss_index(index, chunks, output_dir):
+    """Save FAISS index and chunk metadata."""
+
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    faiss.write_index(
+        index,
+        str(output_dir / "faiss.index")
+    )
+
+    with open(
+        output_dir / "chunks.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            chunks,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+def search_similar_chunks(
+    query,
+    index,
+    chunks,
+    model,
+    top_k=5
+):
+    """Find the most similar document chunks."""
+
+    query_embedding = model.encode(
+        [query],
+        convert_to_numpy=True,
+        normalize_embeddings=True
+    ).astype("float32")
+
+    scores, indices = index.search(
+        query_embedding,
+        top_k
+    )
+
+    results = []
+
+    for score, idx in zip(scores[0], indices[0]):
+        if idx < 0:
+            continue
+
+        results.append({
+            "score": float(score),
+            "chunk": chunks[idx]
+        })
+
+    return results
